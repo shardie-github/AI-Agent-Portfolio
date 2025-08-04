@@ -15,9 +15,11 @@ I hope you find something here that sparks insight or inspiration.
 **Email**: scottrmhardie@gmail.com
 
 ---
+
 #### **My MindStudio Workforce**
 A collection of AI agents and their associated workflows and tools designed for various tasks within various organizations, built and managed using the MindStudio platform.
 
+---
 
 ### **Mini Documentary Creator**
 
@@ -32,7 +34,7 @@ Provides storytelling structure for engaging presentations
 
 🔗 [Check It Out](https://app.mindstudio.ai/agents/the-minidocumentary-creator-7d08b1df/remix)
 
---
+---
 
 ### **Simple Quote Generator**
 
@@ -47,7 +49,7 @@ Generates content suitable for different professional contexts
 
 🔗 [Check It Out](https://app.mindstudio.ai/agents/the-simple-quote-generator-005556ae/remix)
 
---
+---
 
 ### **Resume Keyword Analyser**
 
@@ -62,7 +64,7 @@ Suggests strategic keyword placement and density
 
 🔗 [Check It Out](https://app.mindstudio.ai/agents/resume-keyword-helper-34a2aec1/remix)
 
---
+---
 
 ### **TL;DR**
 
