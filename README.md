@@ -1,4 +1,4 @@
-# Professional Portfolio
+# Brief Background
 
 Hi, I'm **Scott Hardie**. I serve as **Solutions Architect** at **McGraw Hill**, one of the world's leading educational technology companies, where I deliver trusted service and support by solving complex business problems with accessible technology and intuitive user design.
 
