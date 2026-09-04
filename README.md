@@ -1,5 +1,9 @@
 # 🚀 Why This Repo Matters
 
+<!-- BEGIN: REPO HERO -->
+![AI-Agent-Portfolio — hero generated locally on the GPU stack](assets/repo-hero.png)
+<!-- END: REPO HERO -->
+
 AI is no longer experimental—it’s operational.  
 This portfolio demonstrates how **practical AI agents** can streamline work, amplify creativity, and solve real-world problems across industries.
 
